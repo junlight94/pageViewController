@@ -1,4 +1,4 @@
 # pageViewController
 
 
-* [PageViewController](pageViewController/SwiftG/SwiftG/)
+* [PageViewController](SwiftG/SwiftG/pageViewController)
